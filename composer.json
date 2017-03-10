@@ -1,8 +1,14 @@
 {
     "name": "exadra37-bash/x11-server",
-    "description": "All my repositories will have this one as starting point.",
+    "description": "Bash functions to setup x11 server.",
     "keywords": [
         "Exadra37"
+         "bash",
+        "bash functions",
+        "bash package manager",
+        "bash required packages",
+        "bash bin package installer",
+        "bash x11 server"
     ],
     "homepage": "https://gitlab.com/exadra37-bash/x11-server",
     "license": "GPL-3.0",
