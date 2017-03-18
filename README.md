@@ -1,6 +1,6 @@
-# Bash Dockerize App
+# Bash X11 Server
 
-A set of functions that will allow us to Dockerize any App with a *User Interface* outside the *Terminal*.
+A set of functions around X11 server.
 
 
 ## SEMANTIC VERSIONING
